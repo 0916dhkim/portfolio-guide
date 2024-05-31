@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-guide",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "workspaces": [
+    "server"
+  ],
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
